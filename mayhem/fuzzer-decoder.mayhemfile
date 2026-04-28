@@ -1,4 +1,5 @@
-project: PROJECT
+project: xvid
 target: fuzzer-decoder
+
 cmds:
-- cmd: /out/fuzzer-decoder
+  - cmd: /out/fuzzer-decoder
